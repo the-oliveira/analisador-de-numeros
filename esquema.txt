@@ -1,0 +1,11 @@
+-site para adicionar valores numericos em uma lista com um botão adicionar
+-ao clicar em finalizar, deve ser mostrado na tela:
+	-quantidade de numeros cadastrados
+	-o menor valor informado
+	-a soma de todos os valores
+	-media de todos os valores
+
+-também deve fazer o controle de erros, onde pelo menos 1 numero precisa ser adicionado
+-se adicionar o mesmo numero ou nenhum numero, ele dara erro.
+-deve ser um numer ode 0 a 100, se estiver fora também tem que dar erro.
+-ao adicionar mais um numero depois de mostrar o resultado, ele apaga o resultado mas mantém a lista
